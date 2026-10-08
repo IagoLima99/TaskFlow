@@ -1,6 +1,6 @@
 # TaskFlow
 
-Gerenciador de tarefas fullstack (didático).
+Gerenciador de tarefas fullstack.
 
 ## Stack
 - **Front:** Vite + React + TS + Tailwind + Zustand
